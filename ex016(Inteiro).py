@@ -1,4 +1,4 @@
-from math import ceil,floor
+from math import floor
 
 n = float(input('Digite um Numero : '))
-print('O numero {} virou {}.'.format(n,floor(n)))
+print('O numero {} virou {}.'.format(n, floor(n)))
