@@ -10,5 +10,3 @@ lista = [a1, a2, a3, a4]
 shuffle(lista)  #shuffle significa embararlhar algo
 
 print(lista)
-
-print
