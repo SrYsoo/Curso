@@ -1,4 +1,4 @@
-nm = str(input('Nome Completo : '))
+nm = str(input('Nome Completo : ')).split()
 tamanho = nm.split()
 
 print('Maiúsculo : {}'.format(nm.upper()))
